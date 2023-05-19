@@ -21,7 +21,7 @@ export default async function Home() {
       </Script>
       <h1 className="text-7xl font-extrabold">hello</h1>
       <p className="mt-3 text-xl text-gray-600">check out my projects</p>
-      <h2 className="mt-24 font-bold text-gray-700 text-3xl">My Projectss</h2>
+      <h2 className="mt-24 font-bold text-gray-700 text-3xl">My Projectsssss</h2>
       <div className="mt-5 grid md:grid-cols-2 lg:grid-cols-3 gap-8 ">
         {projects.map((project) => (
           <Link
